@@ -1,13 +1,13 @@
-package tn.esprit.stationski;
+package tn.esprit.examen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-class StationSkiApplication {
+class ExamenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StationSkiApplication.class, args);
+		SpringApplication.run(ExamenApplication.class, args);
 	}
 
 }

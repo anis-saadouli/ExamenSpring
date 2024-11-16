@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>tn.esprit</groupId>
-	<artifactId>stationSki</artifactId>
+	<artifactId>examen</artifactId>
 	<version>1.0</version>
-	<name>stationSki</name>
-	<description>stationSki</description>
+	<name>examen</name>
+	<description>examen</description>
 	<url/>
 	<licenses>
 		<license/>
